@@ -32,9 +32,6 @@ This project involves analyzing motor vehicle collision data from New York City 
 ### 5. Query Integration Schema to Answer Business Questions
 - **Tools**: SQL, Tableau, Power BI
 - **Description**: Queried the integration schema to answer business questions. Created interactive dashboards to visualize data and support business-driven decisions.
-- **Artifacts**:
-  - [Tableau Dashboard](link_to_dashboard) (update with actual link)
-  - [Power BI Dashboard](link_to_dashboard) (update with actual link)
 
 ## Business Questions Addressed
 
